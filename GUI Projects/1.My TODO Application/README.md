@@ -3,7 +3,7 @@
 
 Assalamualaikum World!
 
-This is my own version of TODO application. This is my Python project.
+This is my own version of TODO application. This is my Python project. Upload Date: (March 01, 2023)
 
 ---
 
