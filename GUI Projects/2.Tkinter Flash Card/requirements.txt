@@ -1,0 +1,6 @@
+# Modules used in this application
+tkinter
+tkinter.messagebox
+csv
+random
+tksheet
