@@ -33,14 +33,14 @@ This function will create our "root" window. Our app will only run if this funct
 ## start_page():
 This function will create a page like this
 
-![](readme_images/0.Start_Page.PNG)
+![](readme_images/0.Start_Page.png)
 
 ---
 
 ## store_words_page():
 When we click "Store Words" button this function will be called. It will create a page like this
 
-![](readme_images/1.Store_Words.PNG)
+![](readme_images/1.Store_Words.png)
 
 #### writing_words():
 When we click "Store" button or press "Enter" button from keyboard this function will be called. It will write inputted words and meaning to "Stored Words.csv" file. It will write every language from left to right.
@@ -50,7 +50,7 @@ When we click "Store" button or press "Enter" button from keyboard this function
 ## review_words_page():
 When we click "Review Words" button this function will be called. It will create a page like this
 
-![](readme_images/2.Review_Words.PNG)
+![](readme_images/2.Review_Words.png)
 
 It will generate random words.
 
@@ -64,21 +64,21 @@ When we click "Enter" or press "Enter" from keyboard or click "Next Word" button
 #### back_of_the_card():
 When we click "Flip Card" button this function will be called. It will create a page like this.
 
-![](readme_images/3.Flip_Card.PNG)
+![](readme_images/3.Flip_Card.png)
 
 It will give a sheet of all the correct meanings. It will store the word in "list_of_wrong_words" and increase the value of "count_got_wrong" variable.
 
 #### got_right_button_command():
 When we click "You Got Right" button this function will be called. It will create a page like this
 
-![](readme_images/4.You_Got_Right.PNG)
+![](readme_images/4.You_Got_Right.png)
 
 It will show us how many times we got the same word correct.
 
 #### got_wrong_button_command():
 When we click "You Got Wrong" button this function will be called. It will create a page like this
 
-![](readme_images/5.You_Got_Wrong.PNG)
+![](readme_images/5.You_Got_Wrong.png)
 
 It will show us how many times we got the same word wrong.
 
@@ -87,7 +87,7 @@ It will show us how many times we got the same word wrong.
 ## see_or_change_page():
 When we click "See or Change" button this function will be called. It will create a page like this
 
-![](readme_images/6.See_or_Change.PNG)
+![](readme_images/6.See_or_Change.png)
 
 It will give a sheet of our stored words and meaning. We can change words and meaning if we want.
 
